@@ -11,6 +11,11 @@ I'll share some very interesting books by category about cybersecurity like netw
 
 ### Python
 
+- [Black Hat Python, 2nd Edition](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
+- [Mastering Python for Networking and Security](https://www.amazon.com/Mastering-Python-Networking-Security-networking/dp/1839217162)
+- [Mastering Python Networking](https://www.amazon.com/Mastering-Python-Networking-automation-programmability/dp/1839214678)
+- [Cracking Codes with Python](https://www.amazon.com/Cracking-Codes-Python-Introduction-Building/dp/1593278225)
+
 ### PowerShell
 
 ### Go
