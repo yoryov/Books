@@ -58,7 +58,7 @@ I'll share some very interesting books by category about cybersecurity like netw
 
 ### Kali Linux
 
-- [Kali Linux Penetration Testing Bible](Kali-Linux-Penetration-Testing-Bible/dp/1119719089
+- [Kali Linux Penetration Testing Bible](Kali-Linux-Penetration-Testing-Bible/dp/1119719089)
 - [Mastering Kali Linux for Advanced Penetration Testing, 4th Editiion](https://www.amazon.com/Mastering-Linux-Advanced-Penetration-Testing/dp/1801819777)
 - [The Ultimate Kali Linux Book, 2nd Edition](https://www.amazon.com/Ultimate-Kali-Linux-Book-penetration/dp/1801818932)
 
