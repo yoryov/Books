@@ -52,7 +52,14 @@ I'll share some very interesting books by category about cybersecurity like netw
 
 ## Crytography
 
+- [Cracking Codes with Python](https://www.amazon.com/Cracking-Codes-Python-Introduction-Building/dp/1593278225)
+- [Crypto Dictionary](https://www.amazon.com/Crypto-Dictionary-Tidbits-Curious-Cryptographer/dp/1718501404)
+- [Hash Crack: Password Cracking Manual](https://www.amazon.com/Hash-Crack-Password-Cracking-Manual/dp/1793458618)
+
 ## Social Engineering
+
+- [Social Engineering, 2nd Edition: The Science of Human Hacking](https://www.amazon.com/Social-Engineering-Science-Human-Hacking-ebook/dp/B07F24YV2M)
+- [Practical Social Engineering: A Primer for the Ethical Hacker](https://www.amazon.com/Practical-Social-Engineering-Joe-Gray/dp/171850098X)
 
 ## Pentesting
 
@@ -69,6 +76,9 @@ I'll share some very interesting books by category about cybersecurity like netw
 - [AWS Penetration Testing](https://www.amazon.com/AWS-Penetration-Testing-Beginners-Metasploit/dp/1839216921)
 
 ## Open Source Intelligence
+
+- [Open Source Intelligence Techniques, 9th Edition](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/B09PHL6Q4G)
+- [Hunting Cyber Criminals, 1st Edition](https://www.amazon.com/OSINT-Toolkit-Intelligence-Gathering-Investigations/dp/1119540925)
 
 ## Cyber Warfare
 
